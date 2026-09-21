@@ -11,21 +11,8 @@ This positive test case verifies that a user can successfully access and downloa
 
 Folder Structure
 
-Eureka_Website_Automation_Testing_Case_3/
-│
-├── Case#3/
-│   │
-│   ├── case_3/
-│   │   ├── .env                    # Environment variables file (credentials & URL)
-│   │   └── Case_3.exe             # Executable file generated from .py script
-│   │
-│   ├── build/
-│   │   └── Case_3/                 # PyInstaller auto-generated files
-│   │
-│   ├── Case_3.py                   # Main Python automation script
-│   ├── Case_3.spec                 # PyInstaller spec file
-│   ├── Case_3.xlsx                 # Excel file containing test case details
-│   └── README.md
+<img width="617" height="325" alt="image" src="https://github.com/user-attachments/assets/a9e42e65-0ed5-4f73-8a4c-c9e2a86cf644" />
+
 
 .env File
 
