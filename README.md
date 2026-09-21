@@ -1,20 +1,18 @@
-Eureka_Website_Automation_Testing_Case_3
+# Eureka_Website_Automation_Testing_Case_3
 
-Overview
+## Overview
 
-This repository contains the Case_3 automation script. It is developed using Python and Selenium to automate Access_Typed_Open book and book chapter access and download actions on the Eureka website. The script was developed in PyCharm IDE.
+This repository contains the Case_3 automation script. It is developed using Python and Selenium to automate Full Book Request  ( Access_Type Open Books) on the Eureka website. The script was developed in PyCharm IDE.
 
-Test Case Summary:
+## Test Case Summary:
 
-This positive test case verifies that a user can successfully access and download assigned Access_Typed_Open books or Access_Typed_Open book chapters from the Eureka Website. The user logs in with valid credentials and, after successful authentication, navigates from the homepage by hovering over the Publications menu and selecting By Open Access Books under the Books section, then selects a book from the list. The user can view available download options, download specific chapters, download complete books, or navigate to a chapter detail page and download the chapter. The download process completes successfully.
-
-
-Folder Structure
+This positive test case verifies that a user can successfully access and download assigned Access_Typed_Open books or Access_Typed_Open  book chapters from the Eureka Website. The user logs in with valid credentials and, after successful authentication, navigates from the homepage by hovering over the Publications menu and selecting By Title under the Books section, then selects a book from the list. If the selected book is assigned by the admin, the user is able to download the permitted content, either specific chapters or the complete book. The system ensures that only admin-assigned books or chapters are available for download, and the download process completes successfully.
+## Folder Structure
 
 <img width="617" height="325" alt="image" src="https://github.com/user-attachments/assets/a9e42e65-0ed5-4f73-8a4c-c9e2a86cf644" />
 
 
-.env File
+## .env File
 
 Purpose:
 
